@@ -1,0 +1,1 @@
+Copyright &copy; Bootstrap Online E-Commerce Shopping	System Template.
